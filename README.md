@@ -1,8 +1,8 @@
 # Dhulkee Coursera
 
 [Dhulkee Coursera][1] is a GUI based application meant to batch download
-videos from [Coursera][2]. It is much more functional than wget in specificaly
-downloading videos from Coursera.org and easier to use than [coursera-dl][3].
+videos from [Coursera][2]. It is much more functional than wget specifically
+in downloading videos from Coursera.org and easier to use than [coursera-dl][3].
 
 With this application you don't have to worry about any technical issues.
 You just open it, type in your login and password, load your list of
@@ -11,7 +11,7 @@ Simple as that.
 
 Obviously there are several improvements I intend to make, such as an option
 to download other resources, compact all the videos at the end of the download
-and to worn in background. In the future I intend to port this code the 
+and to work in background. In the future I intend to port this code the 
 Android platform.
 
 ## Contact
@@ -24,5 +24,5 @@ Twitter: [@DhulkeeCoursera][5]
 [1]: https://dhulkeecoursera.blogspot.com
 [2]: https://www.coursera.org
 [3]: https://github.com/coursera-dl/coursera
-[4]: https://github.com/dhulke/Dhulkee-Coursera/issues
+[4]: https://github.com/dhulke/DhulkeeCoursera/issues
 [5]: https://twitter.com/DhulkeeCoursera
