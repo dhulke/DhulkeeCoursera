@@ -1,4 +1,5 @@
-# Dhulkee Coursera
+# Dhulkee Coursera [DEPRECATED]
+DEPRECATED: This project is no longer being maintained.
 
 [Dhulkee Coursera][1] is a GUI based application meant to batch download
 videos from [Coursera][2]. It is much more functional than wget specifically
